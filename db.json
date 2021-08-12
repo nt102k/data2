@@ -175,6 +175,27 @@
   "discount": 41,
   "categoryId": 5
 }],
+  "categories": [{
+  "id": 1,
+  "name": "Smilacaceae",
+  "imageUrl": "http://dummyimage.com/1600x900.png/5fa2dd/ffffff"
+}, {
+  "id": 2,
+  "name": "Pterobryaceae",
+  "imageUrl": "http://dummyimage.com/1600x900.png/ff4444/ffffff"
+}, {
+  "id": 3,
+  "name": "Cyperaceae",
+  "imageUrl": "http://dummyimage.com/1600x900.png/cc0000/ffffff"
+}, {
+  "id": 4,
+  "name": "Archidiaceae",
+  "imageUrl": "http://dummyimage.com/1600x900.png/5fa2dd/ffffff"
+}, {
+  "id": 5,
+  "name": "Lauraceae",
+  "imageUrl": "http://dummyimage.com/1600x900.png/cc0000/ffffff"
+}],
   "profile": {
     "name": "typicode"
   }
