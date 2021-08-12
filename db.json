@@ -164,22 +164,27 @@
   "id": 1,
   "name": "Smilacaceae",
   "imageUrl": "http://dummyimage.com/1600x900.png/5fa2dd/ffffff"
+    "itemsCount": 2
 }, {
   "id": 2,
   "name": "Pterobryaceae",
   "imageUrl": "http://dummyimage.com/1600x900.png/ff4444/ffffff"
+  "itemsCount": 3
 }, {
   "id": 3,
   "name": "Cyperaceae",
   "imageUrl": "http://dummyimage.com/1600x900.png/cc0000/ffffff"
+  "itemsCount": 7
 }, {
   "id": 4,
   "name": "Archidiaceae",
   "imageUrl": "http://dummyimage.com/1600x900.png/5fa2dd/ffffff"
+  "itemsCount": 8
 }, {
   "id": 5,
   "name": "Lauraceae",
   "imageUrl": "http://dummyimage.com/1600x900.png/cc0000/ffffff"
+  "itemsCount": 4
 }],
   "profile": {
     "name": "typicode"
