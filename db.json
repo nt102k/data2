@@ -1,7 +1,11 @@
 {
-  "products": [
+  "posts": [
     {
-      "title": "Hello
-    },
-  ]
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
